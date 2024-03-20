@@ -1,0 +1,204 @@
+body{
+    margin: 100px 140px 100px 140px;
+    font-size: 15px;
+    font-family: "League Spartan", sans-serif;
+    font-weight: 400, 500, 700;
+    line-height: 25px;
+   
+}
+h1{
+    font-size: 50px;
+    color: hsl(300, 43%, 22%);
+    line-height: 45px;
+    width: 150%;
+    margin-bottom: 20px;
+}
+p {
+    line-height: 20px;
+    width: 230%;
+    color: hsl(300, 49%, 69%)
+    
+}
+.top-p{
+    color: hsl(0, 1%, 68%);
+    font-weight: bold;
+    line-height: 25px;
+    width: 150%;
+}
+
+.top-container{
+    width: 25%;
+    padding: 10px;
+    
+}
+.topright-container{
+width: 15%;
+position: absolute;
+top: 150px;
+padding-left: 580px;
+}
+
+.fa-star::before{
+    color: orange;
+}
+span{
+    padding-left: 20px;
+}
+
+.review{
+    font-weight: 800;
+    color: hsl(300, 43%, 22%);
+    background-color: hsl(300, 24%, 96%);
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+line-height: 20px;
+    width: 180%;
+    border-radius: 10px;
+}
+
+.report{
+    margin-left: 30px;
+    font-weight: 800;
+    color: hsl(300, 43%, 22%);
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: hsl(300, 24%, 96%);
+line-height: 20px;
+    width: 180%;
+    border-radius: 10px;
+}
+.best{
+    color: hsl(300, 43%, 22%);
+    font-weight: 800;
+    background-color: hsl(300, 24%, 96%);
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 60px;
+    line-height: 20px;
+    width: 180%;
+    border-radius: 10px;
+}
+.fa{
+padding-right: 10px;
+padding-top: 10px;
+padding-bottom: 10px;
+
+}
+.img1{
+    width: 10%;
+    border-radius: 30px;
+    float: left;
+    margin-top: 7px;
+    
+}
+.box-1{
+    background-color: hsl(300, 43%, 22%);
+    width: 30%;
+    height: 200px;
+    border-radius: 10px;
+    margin-top: 50px;
+
+}
+.box-1-top{
+    padding: 30px 20px;
+    
+}
+.h1{
+    font-size: 13px;
+color: white;
+margin-left: 50px;
+margin-top: 0px;
+margin-bottom: 0;
+}
+.h2{
+    font-size: 13px;
+    color: hsl(333, 80%, 67%);
+    margin-left: 50px;
+    margin-top: 0;
+}
+.p1{
+    padding-top: 10px;
+    color: white;
+    width: 100%;
+    text-align: center;
+}
+.box-2{
+    background-color: hsl(300, 43%, 22%);
+    width: 30%;
+    height: 200px;
+    border-radius: 10px;
+    margin-left: 350px;
+    margin-top: -180px;
+}
+.box-2-top{
+    padding: 30px 20px;
+    
+}
+.h3{
+    font-size: 13px;
+color: white;
+margin-left: 50px;
+margin-top: 0px;
+margin-bottom: 0;
+}
+.h4{
+    font-size: 13px;
+    color: hsl(333, 80%, 67%);
+    margin-left: 50px;
+    margin-top: 0;
+}
+.p2{
+    padding-top: 10px;
+    color: white;
+    width: 100%;
+    text-align: center;
+}
+.img2{
+    width: 10%;
+    border-radius: 30px;
+    float: left;
+    margin-top: 7px;
+}
+.box-3{
+    background-color: hsl(300, 43%, 22%);
+    width: 30%;
+    height: 200px;
+    border-radius: 10px;
+    margin-left: 700px;
+    margin-top: -180px;
+}
+.box-3-top{
+    padding: 30px 20px;
+    
+}
+.h5{
+    font-size: 13px;
+color: white;
+margin-left: 50px;
+margin-top: 0px;
+margin-bottom: 0;
+}
+.h6{
+    font-size: 13px;
+    color: hsl(333, 80%, 67%);
+    margin-left: 50px;
+    margin-top: 0;
+}
+.p3{
+    padding-top: 10px;
+    color: white;
+    width: 100%;
+    text-align: center;
+}
+.img3{
+    width: 10%;
+    border-radius: 30px;
+    float: left;
+    margin-top: 7px;
+}
+.attribution{
+    margin-top: 50px;
+}
